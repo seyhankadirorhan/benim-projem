@@ -1,12 +1,21 @@
 {
   "name": "benim-projem",
   "version": "1.0.0",
+  "description": "Benim ilk Node.js projem",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Ahmet Yılmaz",
+  "keywords": ["nodejs", "npm", "öğrenme", "ilk-proje"],
+  "author": "Ahmet Yilmaz",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyhankadirorhan/benim-projem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seyhankadirorhan/benim-projem/issues"
+  },
+  "homepage": "https://github.com/seyhankadirorhan/benim-projem#readme"
 }
